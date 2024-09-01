@@ -127,7 +127,7 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/liljoker06/github-readme-stats">
 	    <img alt="liljoker06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liljoker06&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liljoker06&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="liljoker06" height="230px"/>
 <br/>
@@ -151,7 +151,7 @@
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-<div>
+<!-- <div>
   <p align="center">
 	<a href="https://github.com/liljoker06/botPython">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&repo=Project-1&theme=tokyonight" alt="GitHub Stats" />
@@ -160,8 +160,12 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&repo=Project-2&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<!-- Add more repositories here -->
+  <!--
   </p>
-</div>
+</div> 
+-->
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&repo=github-readme-stats)](https://github.com/liljoker06/github-readme-stats)
 </details>
 
 </br></br>
