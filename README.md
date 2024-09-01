@@ -153,10 +153,10 @@
 
 <div>
   <p align="center">
-	<a href="https://github.com/liljoker06/Project-1">
+	<a href="https://github.com/liljoker06/botPython">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&repo=Project-1&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/liljoker06/Project-2">
+	<a href="https://gitlab.com/liljoker06/masterclass">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&repo=Project-2&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<!-- Add more repositories here -->
