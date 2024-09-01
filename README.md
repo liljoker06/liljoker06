@@ -158,7 +158,7 @@
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=AP3-Home-PC)](https://github.com/liljoker06/AP3-Home-PC)
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=Public)](https://github.com/liljoker06/AP4)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=AP4)](https://github.com/liljoker06/AP4)
 </details>
 
 </br></br>
