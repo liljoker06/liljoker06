@@ -165,7 +165,7 @@
 </div> 
 -->
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&repo=github-readme-stats)](https://github.com/liljoker06/github-readme-stats)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=botPython)](https://github.com/liljoker06/botPython)
 </details>
 
 </br></br>
