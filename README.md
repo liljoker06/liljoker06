@@ -137,8 +137,8 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liljoker06)](https://github.com/liljoker06/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liljoker06&theme=github-compact)](https://github.com/liljoker06/github-readme-activity-graph)
 </details>
 
 <details><summary><h3>:trophy: Git profile Trophies</h3></summary>
