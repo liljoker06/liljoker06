@@ -20,7 +20,7 @@
 - :computer: Experienced in full-stack development, including **React.js**, **Node.js**, and **PHP**.
 - :student: Always expanding my knowledge in **AI**, **Big Data**, and **DevOps**.
 - :thinking: Looking for exciting opportunities to make an impact in the tech world.
-- :email: Reach out to me at [lahrimialadin06@gmail.com](mailto:lahrimialadin06@gmail.com).
+- :email: Reach out to me at [notjoker.pro@gmail.com](mailto:notjoker.pro@gmail.com).
 
 <br>
 
@@ -103,9 +103,8 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width = 100px> </picture> Connect with me
 
 <p align="center">
-	<a href="mailto:lahrimialadin06@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:notjoker.pro@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/liljoker06"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/alaaeddine-lahrimi/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <br> 
