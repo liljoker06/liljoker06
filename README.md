@@ -151,24 +151,15 @@
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-    <!-- Carte pour le projet GitLab -->
-    <div style="background-color: #2d2d2d; border-radius: 8px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease;">
-      <a href="https://gitlab.com/liljoker06/masterclass" target="_blank" style="color: inherit; text-decoration: none; display: flex; flex-direction: column; height: 100%; padding: 16px;">
-        <div style="flex-grow: 1;">
-          <h4 style="margin: 0; font-size: 1.25em; color: #ffffff;">Masterclass</h4>
-          <p style="margin: 0; font-size: 0.875em; color: #b3b3b3;">Project hosted on GitLab</p>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px;">
-          <span style="background-color: #444; color: #ffffff; border-radius: 12px; padding: 5px 10px; font-size: 0.75em; text-transform: uppercase;">GitLab</span>
-          <span style="background-color: #444; color: #ffffff; border-radius: 12px; padding: 5px 10px; font-size: 0.75em; text-transform: uppercase;">Python</span>
-        </div>
-      </a>
-    </div>
-  </div>
-
-
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=botPython)](https://github.com/liljoker06/botPython)
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=RegroupFilesCSV)](https://github.com/liljoker06/RegroupFilesCSV)
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=exohttp)](https://github.com/liljoker06/exohttp)
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=AP3-Home-PC)](https://github.com/liljoker06/AP3-Home-PC)
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=Public)](https://github.com/liljoker06/AP4)
 </details>
 
 </br></br>
