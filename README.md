@@ -131,14 +131,13 @@
 	    <img alt="liljoker06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liljoker06&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liljoker06&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="liljoker06" height="230px"/>
 <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 </details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
-[![liljoker06's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liljoker06&theme=github)](https://github.com/liljoker06/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liljoker06)](https://github.com/liljoker06/github-readme-activity-graph)
 
 </details>
 
