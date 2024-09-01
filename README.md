@@ -170,5 +170,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align = "center">
-	<img src = "https://github.com/liljoker06/liljoker06/blob/output/github-contribution-grid-snake.gif" alt = "Snake Game"/>
+	
 </p>
+
+![snake gif](https://github.com/liljoker06/liljoker06/blob/output/github-contribution-grid-snake.gif)
