@@ -21,7 +21,7 @@
 - :student: Always expanding my knowledge in **AI**, **Big Data**, and **DevOps**.
 - :thinking: Looking for exciting opportunities to make an impact in the tech world.
 - :email: Reach out to me at [notjoker.pro@gmail.com](mailto:notjoker.pro@gmail.com).
-
+- :cat: My GITLAB : https://gitlab.com/liljoker06 
 <br>
 
 ## 🛠️ My Skills
