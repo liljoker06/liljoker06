@@ -51,6 +51,24 @@
   </a>
 </p>
 
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/DevOps.gif?raw=true" width = 50px>  </picture> DevOps & Cloud Tools
+
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=plastic&logo=kubernetes&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"></a>
+</p>
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 
 <p align="center"> 
