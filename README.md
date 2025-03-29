@@ -150,7 +150,7 @@
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=AP3-LampixIA)](https://github.com/liljoker06/LampixIA)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=LampixIA-LampixIA)](https://github.com/liljoker06/LampixIA)
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=RentIA)](https://github.com/liljoker06/RentIA)
 
