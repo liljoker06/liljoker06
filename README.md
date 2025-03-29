@@ -52,7 +52,8 @@
 </p>
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/DevOps.gif?raw=true" width = 50px>  </picture> DevOps & Cloud Tools
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> DevOps & Cloud Tools
+
 
 <p align="center">
   &emsp;
