@@ -52,7 +52,7 @@
 </p>
 
 
-### <picture> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNpcXptczg0eXdyZnc1NHAzenhtM3kxeHdrM2ViOG1oZ3ptNHZkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VEmOEN7f3RZuS0QZkA/giphy.gif" width="50px"> </picture> DevOps & Cloud Tools
+### <picture> <img src="https://tse1.mm.bing.net/th?id=OIP.l-7mpbFa3kOCI-KcWSsuKgHaHa&pid=Api" width="50px"> </picture> DevOps & Cloud Tools
 
 
 <p align="center">
