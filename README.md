@@ -99,11 +99,7 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=visual-studio&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
 </p>
