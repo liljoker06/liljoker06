@@ -154,7 +154,7 @@
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=botPython)](https://github.com/liljoker06/botPython)
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=RegroupFilesCSV)](https://github.com/liljoker06/RegroupFilesCSV)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=tranning__python_with_data)](https://github.com/liljoker06/tranning__python_with_data)
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=exohttp)](https://github.com/liljoker06/exohttp)
 
