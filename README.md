@@ -126,23 +126,6 @@
 
 ---
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=LampixIA-LampixIA)](https://github.com/liljoker06/LampixIA)
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=RentIA)](https://github.com/liljoker06/RentIA)
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=botPython)](https://github.com/liljoker06/botPython)
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=tranning__python_with_data)](https://github.com/liljoker06/tranning__python_with_data)
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=exohttp)](https://github.com/liljoker06/exohttp)
-
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=myTask)](https://github.com/liljoker06/myTask)
-</details>
-
-
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
@@ -164,6 +147,23 @@
 <br/>
 </p>
 </details>
+
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=LampixIA-LampixIA)](https://github.com/liljoker06/LampixIA)
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=RentIA)](https://github.com/liljoker06/RentIA)
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=botPython)](https://github.com/liljoker06/botPython)
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=tranning__python_with_data)](https://github.com/liljoker06/tranning__python_with_data)
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=exohttp)](https://github.com/liljoker06/exohttp)
+
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=myTask)](https://github.com/liljoker06/myTask)
+</details>
+
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
