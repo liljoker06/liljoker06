@@ -15,7 +15,7 @@
 
 <br><br>
 
-- :school: I am currently pursuing a **Master's in Big Data & AI** at **IPSSI** (2024-2026).
+- :school: I am currently pursuing a **Master's in Big Data & AI**.
 - :technologist: Passionate about developing software solutions and data-driven applications.
 - :computer: Experienced in full-stack development, including **React.js**, **Node.js**, and **PHP**.
 - :student: Always expanding my knowledge in **AI**, **Big Data**, and **DevOps**.
@@ -134,6 +134,8 @@
 
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=PixScribeIA)](https://github.com/liljoker06/PixScribeIA)
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=LampixIA)](https://github.com/liljoker06/LampixIA)
 
