@@ -133,7 +133,7 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
 
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<!-- <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=PixScribeIA)](https://github.com/liljoker06/PixScribeIA)
 
@@ -149,23 +149,23 @@
 
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=liljoker06&theme=tokyonight&repo=myTask)](https://github.com/liljoker06/myTask)
-</details>
+</details> -->
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<!-- <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=liljoker06&theme=tokyonight_duo" alt="liljoker06" /></p>
 
-</details>
+</details> -->
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<!-- <details><summary><h3>💻 GitHub Profile Stats</h3></summary> -->
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/liljoker06/github-readme-stats">
 	    <img alt="liljoker06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liljoker06&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liljoker06&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="liljoker06" height="230px"/>
 <br/>
 </p>
-</details>
+</details> -->
 
 
 
@@ -176,9 +176,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liljoker06&theme=github-compact)](https://github.com/liljoker06/github-readme-activity-graph)
 </details>
 
-<details><summary><h3>:trophy: Git profile Trophies</h3></summary>
+<!-- <details><summary><h3>:trophy: Git profile Trophies</h3></summary>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liljoker06&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="liljoker06" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liljoker06&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="liljoker06" /></a> </p> -->
 
 <!-- [![@liljoker06's Holopin board](https://holopin.io/api/user/board?user=liljoker06)](https://holopin.io/@liljoker06) -->
 	
